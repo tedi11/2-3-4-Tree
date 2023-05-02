@@ -4,9 +4,6 @@
 #include <fstream>
 using namespace std;
 
-ifstream f("abce.in");
-ofstream g("abce.out");
-
 struct Node
 {
     vector<int> keys;
